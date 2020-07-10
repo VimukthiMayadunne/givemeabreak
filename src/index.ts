@@ -3,7 +3,7 @@ import {getJoke} from './joke'
 require('dotenv').config()
 
 class Givemeabreak extends Command {
-  static description = 'describe the command here'
+  static description = 'get a cool joke from a CLI command'
 
   static flags = {
     // add --version flag to show CLI version

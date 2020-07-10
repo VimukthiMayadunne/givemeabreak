@@ -10,23 +10,28 @@ get a cool joke from a CLI command
 
 <!-- toc -->
 * [Usage](#usage)
-* [Commands](#commands)
+* [Installation](#installation)
 <!-- tocstop -->
+
+# Installation
+<!-- installation -->
+You can install `givemeabreak` either through `npm` or by cloning the code from this GitHub repo.  This README covers the installation steps with `npm`.
+
+Run the following command  in the terminal 
+
+```bash
+$ npm install -g givemeabreak
+```
+<!-- installation -->
+
+
 # Usage
 <!-- usage -->
-```sh-session
-$ npm install -g givemeabreak
-$ givemeabreak COMMAND
-running command...
-$ givemeabreak (-v|--version|version)
-givemeabreak/0.0.4 linux-x64 node-v12.16.1
-$ givemeabreak --help [COMMAND]
-USAGE
-  $ givemeabreak COMMAND
-...
-```
-<!-- usagestop -->
-# Commands
-<!-- commands -->
+Run the follwoing command when you need a break in the termainal
 
-<!-- commandsstop -->
+```bash
+$ givemeabreak
+
+``` 
+<!-- usagestop -->
+
