@@ -12,7 +12,6 @@ class Givemeabreak extends Command {
   }
 
   async run() {
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const {flags} = this.parse(Givemeabreak)
     const response: any = await getJoke()
     if (response instanceof Error) {

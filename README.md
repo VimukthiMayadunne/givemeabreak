@@ -19,7 +19,7 @@ $ npm install -g givemeabreak
 $ givemeabreak COMMAND
 running command...
 $ givemeabreak (-v|--version|version)
-givemeabreak/0.0.3 linux-x64 node-v12.16.1
+givemeabreak/0.0.4 linux-x64 node-v12.16.1
 $ givemeabreak --help [COMMAND]
 USAGE
   $ givemeabreak COMMAND
