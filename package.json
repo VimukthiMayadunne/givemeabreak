@@ -1,7 +1,7 @@
 {
   "name": "givemeabreak",
   "description": "get a cool joke from a CLI command",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "VimukthiMayadunne @VimukthiMayadunne",
   "bin": {
     "givemeabreak": "./bin/run"
