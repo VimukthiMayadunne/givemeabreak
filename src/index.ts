@@ -1,6 +1,5 @@
 import {Command, flags} from '@oclif/command'
 import {getJoke} from './joke'
-require('dotenv').config()
 
 class Givemeabreak extends Command {
   static description = 'get a cool joke from a CLI command'
