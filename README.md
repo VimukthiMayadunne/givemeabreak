@@ -9,8 +9,8 @@ get a cool joke from a CLI command
 [![License](https://img.shields.io/npm/l/givemeabreak.svg)](https://github.com/VimukthiMayadunne/givemeabreak/blob/master/package.json)
 
 <!-- toc -->
-* [Usage](#usage)
 * [Installation](#installation)
+* [Usage](#usage)
 <!-- tocstop -->
 
 # Installation
@@ -27,11 +27,15 @@ $ npm install -g givemeabreak
 
 # Usage
 <!-- usage -->
-Run the follwoing command when you need a break in the termainal
-
-```bash
-$ givemeabreak
-
-``` 
+```sh-session
+$ npm install -g givemeabreak
+$ givemeabreak COMMAND
+running command...
+$ givemeabreak (-v|--version|version)
+givemeabreak/0.0.5 linux-x64 node-v12.16.1
+$ givemeabreak --help [COMMAND]
+USAGE
+  $ givemeabreak COMMAND
+...
+```
 <!-- usagestop -->
-
